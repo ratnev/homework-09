@@ -198,6 +198,10 @@
     }
     .page-nav {
         padding: 0px 0 32px 0;
+    }
+    .my-container {
+        margin: 0 auto;
+        padding: 0;
     }    
     .register {
         margin: 0 0 120px 0;
@@ -289,6 +293,9 @@
     }
     .register {
         margin: 0;
+    }
+    .top-head {
+        padding: 0 125px;
     }
     .partners {
         padding-bottom: 74px;
